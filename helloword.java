@@ -1,4 +1,4 @@
-// Your First Program
+// This code will print my command line
 
 class HelloWorld {
     public static void main(String[] args) {
